@@ -23,3 +23,5 @@
 
 - [git status](./Commands/Status.md)
 
+- [git clone](./Commands/Clone.md)
+
