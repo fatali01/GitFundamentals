@@ -20,3 +20,6 @@
 - [git push](./Commands/push.md)
 
 - [git pull](./Commands/Pull.md)
+
+- [git status](./Commands/Status.md)
+
